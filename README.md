@@ -50,7 +50,7 @@ To run the code, you need the following:
    Navigate to the repository directory and open the Jupyter Notebook file:
    ```bash
    cd AF3005_ProgrammingForFinance
-   jupyter notebook 22i-9848_AF3005_Assignment1.ipynb
+   jupyter notebook i229848_Zainab_Tahir_AF3005_Assignment1.ipynb
    ```
 
 3. **Run the Code**  
